@@ -1,4 +1,5 @@
 // ignore_for_file: prefer_const_constructors
+// Dev By Abdelhakim Elmoumen
 
 import 'package:flutter/material.dart';
 import 'package:smart_memo/screens/splash.dart';
