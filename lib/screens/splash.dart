@@ -38,11 +38,11 @@ class _SplashScreenState extends State<SplashScreen> {
                 color: Colors.white,
                 borderRadius: BorderRadius.circular(13),
               ),
-              width: 70, // Increased size for better visual balance
+              width: 70, 
               height: 70,
               child: Icon(
                 Icons.edit,
-                size: 50, // Increased icon size for better visual balance
+                size: 50, 
                 color: Colors.grey.shade900,
               ),
             ),
