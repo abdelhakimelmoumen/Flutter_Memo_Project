@@ -1,6 +1,6 @@
 # smart_memo 
 
-Smart Memo App . is Open source .
+Smart Memo App . is open source .
 Dev By Abdelhakim Elmoumen  ...
 
 HakomSoft by Abdelhakim (ℹ️)
