@@ -1,6 +1,6 @@
 // ignore_for_file: prefer_const_constructors, unnecessary_string_interpolations, sort_child_properties_last, unnecessary_import, prefer_final_fields
-
-import 'dart:convert'; // تأكد من استيراد مكتبة dart:convert
+// // Dev By Abdelhakim Elmoumen
+import 'dart:convert'; 
 import 'dart:math';
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
@@ -201,7 +201,7 @@ class _HomeScreenState extends State<HomeScreen> {
                       subtitle: Padding(
                         padding: const EdgeInsets.only(top: 8.0),
                         child: Text(
-                          'Edited : ${DateFormat('EEE MMM d, yyyy h:mm a').format(filtredNotes[index].modifiedTime)}', // تم تصحيح تنسيق التاريخ
+                          'Edited : ${DateFormat('EEE MMM d, yyyy h:mm a').format(filtredNotes[index].modifiedTime)}', 
                           style: TextStyle(
                               fontSize: 10,
                               fontStyle: FontStyle.italic,
