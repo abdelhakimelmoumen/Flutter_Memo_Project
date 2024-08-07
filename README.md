@@ -35,9 +35,7 @@ HakomSoft by Abdelhakim (ℹ️)
 
 
 
-The App preserves the written content ... 
-![check_14025690](https://github.com/user-attachments/assets/2e14a547-8fcc-4faf-b9c5-9248c2b82fd2)
-
+The App preserves the written content ... ✅
 
 
 
