@@ -22,7 +22,7 @@ HakomSoft by Abdelhakim (ℹ️)
 ![Screenshot 2024-08-07 173518](https://github.com/user-attachments/assets/e411a023-18c3-4fe5-a054-6e67347ca4c5)
 
 
-(  Edit Screen (Development stage) ) * ( Free Palestine . Great ! ![image](https://github.com/user-attachments/assets/4e27c9c8-babe-4c6d-bffd-991e720a0285)
+(  Edit Screen (Development stage) ) * ( Free Palestine . Great ! 🩷)
 
 
 ![Screenshot 2024-08-07 173610](https://github.com/user-attachments/assets/429ebd46-366b-45a9-bf06-497e59235820)
